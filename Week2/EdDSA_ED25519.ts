@@ -20,4 +20,5 @@ async function main() {
   console.log(isValid); // Should print `true` if the signature is valid
 }
 
+
 main();
